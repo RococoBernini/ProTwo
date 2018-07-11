@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e121423-c630-4e33-8ebf-e5d98886e1f5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProTwo/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appTwo/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/populate_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/appTwo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/appTwo/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/appTwo/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/appTwo/user.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +80,8 @@
       <file leaf-file-name="user.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/appTwo/user.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            <state relative-caret-position="187">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -325,30 +302,38 @@
       <workItem from="1530794651854" duration="7100000" />
       <workItem from="1531104347112" duration="903000" />
       <workItem from="1531128522105" duration="4323000" />
-      <workItem from="1531304475418" duration="245000" />
+      <workItem from="1531304475418" duration="515000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1531304741612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531304741612</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12571000" />
+    <option name="totallyTimeSpent" value="12841000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="587" y="0" width="693" height="800" extended-state="6" />
+    <frame x="546" y="0" width="734" height="800" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50076807" side_tool="true" visible="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50076807" side_tool="true" weight="0.32965517" />
       <window_info anchor="right" id="Maven Projects" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49923196" visible="true" weight="0.32965517" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49923196" visible="true" weight="0.32965517" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.7511521" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22109826" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="SciView" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -370,6 +355,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/appTwo/index.html">
@@ -464,6 +453,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -529,6 +521,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -574,6 +569,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -633,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/appTwo/user.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
